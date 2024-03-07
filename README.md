@@ -1,6 +1,18 @@
 # EX-03 Implementation of Linear Regression using Gradient Descent
+<table>
+<tr>
+<td width=85% align=left>
+    
 ### Aim:
 To write a program to predict the profit of a city using the linear regression model with gradient descent.
+</td> 
+<td valign=top>
+
+**DATE:**
+</td>
+</tr> 
+</table>
+
 ### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
@@ -9,6 +21,10 @@ To write a program to predict the profit of a city using the linear regression m
 2. Trace the best fit line and calculate the cost function.
 3. Calculate the gradient descent and plot the graph for it.
 4. Predict the profit for two population sizes.
+```
+Developed By: ROHIT JAIN D
+Register No: 212222230120
+```
 ### Program:
 ```Python
 import numpy as np
